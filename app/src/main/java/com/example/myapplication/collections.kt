@@ -10,6 +10,7 @@ package com.example.myapplication
 fun ContohList() {
     println("=== List ===")
 
+
     // List Read-Only
     val readonlyAbjad = listOf("A", "B", "C")
     println(readonlyAbjad)
