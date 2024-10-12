@@ -37,4 +37,3 @@ fun main() {
     withNamedArgument(name = "John", age = 30)
     withDefaultParameter(age = 25)
 }
-
